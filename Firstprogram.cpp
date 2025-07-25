@@ -6,7 +6,7 @@ using namespace std;
 
 int main(){
     vector<int> arr={10,20,60,70,110};
-    int k=70;
+    int k=50;
     int l=0;
     int h=arr.size();
     while(l<=h){
